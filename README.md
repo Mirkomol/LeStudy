@@ -16,3 +16,8 @@ Instant Access: Say goodbye to the hassle of searching for study materials – e
 📆 Exam Preparation
 Specialized Features: Leverage exam preparation tools, study guides, and collaborative exam readiness initiatives.
 Resource Sharing: Empower each other by sharing valuable resources and insights.
+
+
+
+https://github.com/Mirkomol/LeStudy/assets/62810906/fef5aa8e-ab0f-4290-83cb-197a51493d65
+
