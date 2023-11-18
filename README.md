@@ -1,9 +1,5 @@
 # LeStudy
 
-Certainly! If you want to create a GitHub repository for your project and provide a concise and engaging introduction on the README.md file (which serves as the landing page for your GitHub project), here's a template you can use:
-
-LeStudy
-LeStudy Logo
 
 Welcome to LeStudy – Empowering Students through Connection and Collaboration! 🚀
 
